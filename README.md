@@ -39,7 +39,7 @@ This activity improved my **precision, consistency, and drafting discipline**.
 ---
 
 ## 3. 3D Drafting
-
+![](https://github.com/VismayVChandra/Marvel-Level-1/blob/main/WhatsApp%20Image%202026-02-06%20at%2010.34.29%20PM%20(2).jpeg)
 3D drafting involves converting 2D sketches into three-dimensional objects. In this module, I created a **3D model of an Allen key** in Autodesk Fusion 360 using the given dimensions:
 - Length: **55 mm**
 - Width: **20 mm**
@@ -51,7 +51,9 @@ Additionally, I created **three machine parts** by:
 1. Creating accurate 2D sketches
 2. Using tools such as **extrude, hole, and fillet**
 3. Maintaining dimensional accuracy
-
+![](https://github.com/VismayVChandra/Marvel-Level-1/blob/main/WhatsApp%20Image%202026-02-06%20at%2010.34.28%20PM.jpeg)
+![](https://github.com/VismayVChandra/Marvel-Level-1/blob/main/WhatsApp%20Image%202026-02-06%20at%2010.34.29%20PM%20(1).jpeg)
+![](https://github.com/VismayVChandra/Marvel-Level-1/blob/main/WhatsApp%20Image%202026-02-06%20at%2010.34.29%20PM.jpeg)
 This exercise helped me understand the transformation of **conceptual sketches into functional mechanical components**.
 
 ---
@@ -78,7 +80,7 @@ This task introduced me to the **application of CAD in aerodynamic and aerospace
 ---
 
 ### 4.2 Surface Modelling
-
+![](https://github.com/VismayVChandra/Marvel-Level-1/blob/main/WhatsApp%20Image%202026-02-06%20at%2010.34.27%20PM%20(2).jpeg)
 Surface modelling is essential for designing complex and smooth geometries. Using the **Forms environment**, I designed a **toroidal propeller** compatible with a **1000 kv BLDC motor**.
 
 This task helped me understand:
@@ -91,7 +93,7 @@ The design emphasized **low-noise propeller characteristics**, which are critica
 ---
 
 ### 4.3 Sheet Metal Design
-
+![](https://github.com/VismayVChandra/Marvel-Level-1/blob/main/WhatsApp%20Image%202026-02-06%20at%2010.34.27%20PM%20(1).jpeg)
 Sheet metal design focuses on manufacturability and efficient material usage. I designed a **postbox for MARVEL** using the sheet metal environment with:
 - Thickness: **1 mm**
 - Height: **1 ft**
@@ -107,7 +109,7 @@ This exercise improved my understanding of **practical manufacturing constraints
 ---
 
 ### 4.4 Organic Modelling
-
+![](https://github.com/VismayVChandra/Marvel-Level-1/blob/main/WhatsApp%20Image%202026-02-06%20at%2010.34.28%20PM%20(2).jpeg)
 Organic modelling allows the creation of smooth, free-form, and aesthetic designs. Using the **Forms tool**, I designed a **hollow vase** based on the given parameters.
 
 This activity helped me understand:
@@ -127,14 +129,14 @@ I studied:
 - **Top-down assembly approach**
 - **Bottom-up assembly approach**
 
-Using this knowledge, I designed and assembled a **Ratchet and Pawl mechanism**. Appropriate **joints** were applied, and the mechanism was animated to demonstrate its working principle.
+Using this knowledge, I designed and assembled a **sliding mechanism**. Appropriate **joints** were applied, and the mechanism was animated to demonstrate its working principle.
 
 This task helped me understand **mechanical constraints, motion transfer, and functional validation**.
-
+![](https://github.com/VismayVChandra/Marvel-Level-1/blob/main/WhatsApp%20Video%202026-02-06%20at%2010.34.30%20PM%20(1).mp4)
 ---
 
 ## 6. Spur Gear Design
-
+![](https://github.com/VismayVChandra/Marvel-Level-1/blob/main/WhatsApp%20Image%202026-02-06%20at%2010.34.27%20PM.jpeg)
 Gears are widely used for power transmission in mechanical systems. I designed a **spur gear set** with the following specifications:
 - Gear ratio: **2:1**
 - Number of teeth: **20 and 40**
